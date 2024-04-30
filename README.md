@@ -47,7 +47,7 @@ The CTO, first engineer, cofounder, or anyone at a pre-seed startup who is accou
 
 - [ ] Code
   - [ ] README should describe steps to setup dev environment from scratch, always up-to-date
-  - [ ] Adapt a style guide from day 1
+  - [ ] Adopt a style guide from day 1
   - [ ] Start adding spec tests from day 1
   - [ ] Decide on comments or no comments in code
   - [ ] Use linters to help standardize code as well as make code reviews better for everyone
@@ -126,4 +126,4 @@ The CTO, first engineer, cofounder, or anyone at a pre-seed startup who is accou
   - [ ] Group email address for ownership of all external services
     - Use your password manager's sharing feature to ensure access doesn't rely on you personally
   - [ ] All dependent service's payments on a company Credit Card
-    - Role changes, aquisitions, canceled card, etc could make this painful
+    - Role changes, acquisitions, canceled card, etc could make this painful
